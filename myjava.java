@@ -4,4 +4,11 @@ line 3 code by devA
 
 
 
-this line of code is from main 
+this line of code is from main
+
+public class code{
+	public static void main(string[] args)
+	{
+		system.out.println("123");
+	}
+}
